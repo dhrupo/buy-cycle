@@ -1,6 +1,4 @@
-Client Code: https://github.com/Porgramming-Hero-web-course/full-stack-client-dhrupo
-
-Server Code:  https://github.com/Porgramming-Hero-web-course/full-stack-server-dhrupo
+Client Code: https://github.com/dhrupo/buy-cycle
 
 Live: https://buy-cycle.web.app/
 
