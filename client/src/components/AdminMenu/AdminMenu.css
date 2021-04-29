@@ -1,0 +1,13 @@
+.admin-menu {
+  background-color: #203d37;
+  height: 100vh;
+}
+
+.admin-menu a {
+  color: #fff;
+}
+
+.admin-menu a:hover {
+  background-color: #c5c5c5;
+  color: #000;
+}
