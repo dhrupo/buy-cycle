@@ -1,4 +1,4 @@
-Client Code: https://github.com/dhrupo/buy-cycle
+Code: https://github.com/dhrupo/buy-cycle
 
 Live: https://buy-cycle.web.app/
 
